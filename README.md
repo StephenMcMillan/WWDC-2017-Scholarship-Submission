@@ -11,3 +11,6 @@ If you have an iPad, you can experience my Playground book by opening the approp
 ### Demo
 ![Demo gif](https://github.com/StephenMcMillan/WWDC-2017-Scholarship-Submission/blob/master/circuit_demo_1.gif "Circuit Demo")
 
+I was particularly pleased with the drawing animation that I was able to achieve. 
+![Demo gif 2](https://github.com/StephenMcMillan/WWDC-2017-Scholarship-Submission/blob/master/circuit_demo_2.gif "Circuit Demo 2")
+
